@@ -43,6 +43,7 @@ npm run preview
 7. **File and Folder Structure of React** - স্কেলেবল ফিচার-বেসড ইন্ডাস্ট্রি স্ট্যান্ডার্ড আর্কিটেকচার
 8. **Project Setup, First Application & Editing** - `main.jsx`, `createRoot`, React Fast Refresh / HMR
 
+
 ### 📦 Module 1: React Fundamentals & Core Architecture
 1. **Introduction, Setup & The React Ecosystem** - রাউটার, স্টেট, সার্ভার কুয়েরি ও টেস্টিং ইকোসিস্টেমের মানচিত্র
 2. **Concept of CSS & Tailwind CSS** - Utility-first সুবিধা, রেসপনসিভ ব্রেকপয়েন্ট, ফ্লেক্স/গ্রিড ও ডার্ক মোড
@@ -100,7 +101,7 @@ npm run preview
 1. **Enterprise Capstone Project: DevFlow AI-Powered SaaS** - সম্পূর্ণ এন্টারপ্রাইজ ফুলস্ট্যাক আর্কিটেকচার, PostgreSQL + Prisma স্কিমা, Next.js 15 Server Actions, Zustand + TanStack Query, ডিপ্লয়মেন্ট চেকলিস্ট
 2. **Top 25 Senior React & Next.js Interview Master Bank** - সিনিয়র ও স্টাফ ইঞ্জিনিয়ার লেভেলের গভীর টেকনিক্যাল ইন্টারভিউ প্রশ্নোত্তর (Concurrent React, Fiber Architecture, Hydration Mismatch, Performance Profiling)
 
----
+----
 
 ## 🎨 ইন্টারেক্টিভ সিমুলেটর ও টুলস
 - 🕹️ **Virtual DOM & Diffing Simulator**: রিয়েলটাইমে মেমরি ট্রিতে নোড ডিফারেন্স ও ব্রাউজার ডম প্যাচ দেখার সুবিধা।
